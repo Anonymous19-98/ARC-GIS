@@ -1,0 +1,6 @@
+20211228  17   0    15     0EssaShehab F:\final_gis\contours = CONTOUR(F:\final_gis\roishan\roishanc1,  INTERVAL, 10.0, 0.0)
+20211228  27   1     6     0EssaShehab F:\final_gis\contours = CONTOUR(F:\final_gis\roishan\roishanc1,  INTERVAL, 25.0, 0.0)
+20211228  34   0     8     0EssaShehab F:\final_gis\contours2 = CONTOUR(F:\final_gis\roishan\roishanc1,  INTERVAL, 17.0, 0.0)
+20211228 121   0    11     0EssaShehab F:\final_gis\fill = FILLSINK(F:\final_gis\roishan\roishanc1,  #)
+20211228 255   0     0     0EssaShehab F:\final_gis\dir_Idw = IDW(wind,  'Direction', #, 2.0, SAMPLE, 12, #, 3.918943279903431e-005)
+20211228 256   0     0     0EssaShehab F:\final_gis\speed_Idw = IDW(wind,  'Speed', #, 2.0, SAMPLE, 12, #, 3.918943279903431e-005)
